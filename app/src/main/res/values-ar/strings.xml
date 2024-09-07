@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">APIDepi</string>
+    <string name="id_label">رقم الالبوم</string>
+    <string name="user_id_label">رقم المستخدم</string>
+    <string name="title_label">العنوان</string>
+</resources>
